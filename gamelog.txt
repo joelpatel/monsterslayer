@@ -1,0 +1,126 @@
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:91 Player Attack Damage:9 Player Heal Value:0 Player Health:88 Round:1]
+map[Action:HEAL Monster Attack Damage:10 Monster Health:91 Player Attack Damage:0 Player Heal Value:11 Player Health:89 Round:2]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:11 Monster Health:79 Player Attack Damage:12 Player Heal Value:0 Player Health:78 Round:3]
+map[Action:HEAL Monster Attack Damage:12 Monster Health:79 Player Attack Damage:0 Player Heal Value:14 Player Health:80 Round:4]
+map[Action:HEAL Monster Attack Damage:10 Monster Health:79 Player Attack Damage:0 Player Heal Value:14 Player Health:84 Round:5]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:9 Monster Health:66 Player Attack Damage:13 Player Heal Value:0 Player Health:75 Round:6]
+map[Action:HEAL Monster Attack Damage:9 Monster Health:66 Player Attack Damage:0 Player Heal Value:17 Player Health:83 Round:7]
+map[Action:HEAL Monster Attack Damage:9 Monster Health:66 Player Attack Damage:0 Player Heal Value:17 Player Health:91 Round:8]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:11 Monster Health:47 Player Attack Damage:19 Player Heal Value:0 Player Health:80 Round:9]
+map[Action:HEAL Monster Attack Damage:12 Monster Health:47 Player Attack Damage:0 Player Heal Value:13 Player Health:81 Round:10]
+map[Action:HEAL Monster Attack Damage:12 Monster Health:47 Player Attack Damage:0 Player Heal Value:15 Player Health:84 Round:11]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:10 Monster Health:36 Player Attack Damage:11 Player Heal Value:0 Player Health:74 Round:12]
+map[Action:HEAL Monster Attack Damage:10 Monster Health:36 Player Attack Damage:0 Player Heal Value:19 Player Health:83 Round:13]
+map[Action:HEAL Monster Attack Damage:11 Monster Health:36 Player Attack Damage:0 Player Heal Value:17 Player Health:89 Round:14]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:9 Monster Health:26 Player Attack Damage:10 Player Heal Value:0 Player Health:80 Round:15]
+map[Action:HEAL Monster Attack Damage:11 Monster Health:26 Player Attack Damage:0 Player Heal Value:18 Player Health:87 Round:16]
+map[Action:HEAL Monster Attack Damage:9 Monster Health:26 Player Attack Damage:0 Player Heal Value:13 Player Health:91 Round:17]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:9 Monster Health:15 Player Attack Damage:11 Player Heal Value:0 Player Health:82 Round:18]
+map[Action:HEAL Monster Attack Damage:12 Monster Health:15 Player Attack Damage:0 Player Heal Value:10 Player Health:80 Round:19]
+map[Action:HEAL Monster Attack Damage:10 Monster Health:15 Player Attack Damage:0 Player Heal Value:15 Player Health:85 Round:20]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:10 Monster Health:3 Player Attack Damage:12 Player Heal Value:0 Player Health:75 Round:21]
+map[Action:HEAL Monster Attack Damage:12 Monster Health:3 Player Attack Damage:0 Player Heal Value:13 Player Health:76 Round:22]
+map[Action:HEAL Monster Attack Damage:11 Monster Health:3 Player Attack Damage:0 Player Heal Value:18 Player Health:83 Round:23]
+map[Action:SPECIAL_ATTACK Monster Attack Damage:11 Monster Health:0 Player Attack Damage:18 Player Heal Value:0 Player Health:72 Round:24]
+New Game Session at time: 2022-01-10 19:02:20.05291 -0600 CST m=+8.296062902
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:94 Player Attack Damage:6 Player Heal Value:0 Player Health:91 Round:1]New Game Session at time: 2022-01-10 19:02:20.05406 -0600 CST m=+8.297212744
+map[Action:HEAL Monster Attack Damage:11 Monster Health:94 Player Attack Damage:0 Player Heal Value:9 Player Health:89 Round:2]New Game Session at time: 2022-01-10 19:02:20.054095 -0600 CST m=+8.297247510
+map[Action:SPECIAL_ATTACK Monster Attack Damage:9 Monster Health:78 Player Attack Damage:16 Player Heal Value:0 Player Health:80 Round:3]New Game Session at time: 2022-01-10 19:02:20.054125 -0600 CST m=+8.297277660
+map[Action:HEAL Monster Attack Damage:11 Monster Health:78 Player Attack Damage:0 Player Heal Value:16 Player Health:85 Round:4]New Game Session at time: 2022-01-10 19:02:20.054143 -0600 CST m=+8.297295096
+map[Action:HEAL Monster Attack Damage:9 Monster Health:78 Player Attack Damage:0 Player Heal Value:14 Player Health:90 Round:5]New Game Session at time: 2022-01-10 19:02:20.054186 -0600 CST m=+8.297338525
+map[Action:SPECIAL_ATTACK Monster Attack Damage:10 Monster Health:61 Player Attack Damage:17 Player Heal Value:0 Player Health:80 Round:6]New Game Session at time: 2022-01-10 19:02:20.0542 -0600 CST m=+8.297352687
+map[Action:HEAL Monster Attack Damage:11 Monster Health:61 Player Attack Damage:0 Player Heal Value:12 Player Health:81 Round:7]New Game Session at time: 2022-01-10 19:02:20.054213 -0600 CST m=+8.297364947
+map[Action:HEAL Monster Attack Damage:9 Monster Health:61 Player Attack Damage:0 Player Heal Value:14 Player Health:86 Round:8]New Game Session at time: 2022-01-10 19:02:20.054224 -0600 CST m=+8.297376598
+map[Action:SPECIAL_ATTACK Monster Attack Damage:9 Monster Health:46 Player Attack Damage:15 Player Heal Value:0 Player Health:77 Round:9]New Game Session at time: 2022-01-10 19:02:20.054236 -0600 CST m=+8.297388082
+map[Action:HEAL Monster Attack Damage:10 Monster Health:46 Player Attack Damage:0 Player Heal Value:10 Player Health:77 Round:10]New Game Session at time: 2022-01-10 19:02:20.054247 -0600 CST m=+8.297399670
+map[Action:HEAL Monster Attack Damage:12 Monster Health:46 Player Attack Damage:0 Player Heal Value:17 Player Health:82 Round:11]New Game Session at time: 2022-01-10 19:02:20.05426 -0600 CST m=+8.297411821
+map[Action:SPECIAL_ATTACK Monster Attack Damage:9 Monster Health:27 Player Attack Damage:19 Player Heal Value:0 Player Health:73 Round:12]New Game Session at time: 2022-01-10 19:02:20.054275 -0600 CST m=+8.297427095
+map[Action:HEAL Monster Attack Damage:10 Monster Health:27 Player Attack Damage:0 Player Heal Value:17 Player Health:80 Round:13]New Game Session at time: 2022-01-10 19:02:20.054286 -0600 CST m=+8.297438484
+map[Action:HEAL Monster Attack Damage:10 Monster Health:27 Player Attack Damage:0 Player Heal Value:13 Player Health:83 Round:14]New Game Session at time: 2022-01-10 19:02:20.0543 -0600 CST m=+8.297452332
+map[Action:SPECIAL_ATTACK Monster Attack Damage:10 Monster Health:8 Player Attack Damage:19 Player Heal Value:0 Player Health:73 Round:15]New Game Session at time: 2022-01-10 19:02:20.054314 -0600 CST m=+8.297466640
+map[Action:HEAL Monster Attack Damage:9 Monster Health:8 Player Attack Damage:0 Player Heal Value:13 Player Health:77 Round:16]New Game Session at time: 2022-01-10 19:02:20.054326 -0600 CST m=+8.297477978
+map[Action:HEAL Monster Attack Damage:9 Monster Health:8 Player Attack Damage:0 Player Heal Value:19 Player Health:87 Round:17]New Game Session at time: 2022-01-10 19:02:20.054337 -0600 CST m=+8.297489221
+map[Action:SPECIAL_ATTACK Monster Attack Damage:11 Monster Health:0 Player Attack Damage:10 Player Heal Value:0 Player Health:76 Round:18]New Game Session at time: 2022-01-10 19:04:18.17327 -0600 CST m=+103.271076836
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:94 Player Attack Damage:6 Player Heal Value:0 Player Health:88 Round:1]New Game Session at time: 2022-01-10 19:04:18.173593 -0600 CST m=+103.271399815
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:87 Player Attack Damage:7 Player Heal Value:0 Player Health:79 Round:2]New Game Session at time: 2022-01-10 19:04:18.173616 -0600 CST m=+103.271422857
+map[Action:SPECIAL_ATTACK Monster Attack Damage:10 Monster Health:70 Player Attack Damage:17 Player Heal Value:0 Player Health:69 Round:3]New Game Session at time: 2022-01-10 19:04:18.17364 -0600 CST m=+103.271446412
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:61 Player Attack Damage:9 Player Heal Value:0 Player Health:58 Round:4]New Game Session at time: 2022-01-10 19:04:18.173657 -0600 CST m=+103.271463466
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:53 Player Attack Damage:8 Player Heal Value:0 Player Health:47 Round:5]New Game Session at time: 2022-01-10 19:04:18.173674 -0600 CST m=+103.271479919
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:48 Player Attack Damage:5 Player Heal Value:0 Player Health:36 Round:6]New Game Session at time: 2022-01-10 19:04:18.173728 -0600 CST m=+103.271534571
+map[Action:HEAL Monster Attack Damage:10 Monster Health:48 Player Attack Damage:0 Player Heal Value:14 Player Health:40 Round:7]New Game Session at time: 2022-01-10 19:04:18.173747 -0600 CST m=+103.271552966
+map[Action:HEAL Monster Attack Damage:10 Monster Health:48 Player Attack Damage:0 Player Heal Value:12 Player Health:42 Round:8]New Game Session at time: 2022-01-10 19:04:18.17376 -0600 CST m=+103.271566214
+map[Action:SPECIAL_ATTACK Monster Attack Damage:11 Monster Health:32 Player Attack Damage:16 Player Heal Value:0 Player Health:31 Round:9]New Game Session at time: 2022-01-10 19:04:18.173772 -0600 CST m=+103.271578104
+map[Action:HEAL Monster Attack Damage:11 Monster Health:32 Player Attack Damage:0 Player Heal Value:16 Player Health:36 Round:10]New Game Session at time: 2022-01-10 19:04:18.173783 -0600 CST m=+103.271589648
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:24 Player Attack Damage:8 Player Heal Value:0 Player Health:25 Round:11]New Game Session at time: 2022-01-10 19:04:18.173795 -0600 CST m=+103.271601240
+map[Action:SPECIAL_ATTACK Monster Attack Damage:10 Monster Health:8 Player Attack Damage:16 Player Heal Value:0 Player Health:15 Round:12]New Game Session at time: 2022-01-10 19:04:18.17381 -0600 CST m=+103.271616473
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:3 Player Attack Damage:5 Player Heal Value:0 Player Health:5 Round:13]New Game Session at time: 2022-01-10 19:04:18.173822 -0600 CST m=+103.271628381
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:0 Player Attack Damage:7 Player Heal Value:0 Player Health:0 Round:14]New Game Session at time: 2022-01-10 19:05:58.423432 -0600 CST m=+2.716545424
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:91 Player Attack Damage:9 Player Heal Value:0 Player Health:88 Round:1]New Game Session at time: 2022-01-10 19:05:58.423787 -0600 CST m=+2.716901116
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:82 Player Attack Damage:9 Player Heal Value:0 Player Health:77 Round:2]New Game Session at time: 2022-01-10 19:05:58.423815 -0600 CST m=+2.716929022
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:77 Player Attack Damage:5 Player Heal Value:0 Player Health:65 Round:3]New Game Session at time: 2022-01-10 19:05:58.423837 -0600 CST m=+2.716950283
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:71 Player Attack Damage:6 Player Heal Value:0 Player Health:56 Round:4]New Game Session at time: 2022-01-10 19:05:58.423857 -0600 CST m=+2.716970917
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:62 Player Attack Damage:9 Player Heal Value:0 Player Health:45 Round:5]New Game Session at time: 2022-01-10 19:05:58.423877 -0600 CST m=+2.716991062
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:55 Player Attack Damage:7 Player Heal Value:0 Player Health:33 Round:6]New Game Session at time: 2022-01-10 19:05:58.423897 -0600 CST m=+2.717010796
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:50 Player Attack Damage:5 Player Heal Value:0 Player Health:23 Round:7]New Game Session at time: 2022-01-10 19:05:58.423923 -0600 CST m=+2.717037157
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:43 Player Attack Damage:7 Player Heal Value:0 Player Health:13 Round:8]New Game Session at time: 2022-01-10 19:05:58.423958 -0600 CST m=+2.717071332
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:38 Player Attack Damage:5 Player Heal Value:0 Player Health:4 Round:9]New Game Session at time: 2022-01-10 19:05:58.423994 -0600 CST m=+2.717107707
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:31 Player Attack Damage:7 Player Heal Value:0 Player Health:0 Round:10]New Game Session at time: 2022-01-10 19:06:28.614315 -0600 CST m=+2.147429848
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:94 Player Attack Damage:6 Player Heal Value:0 Player Health:90 Round:1]
+New Game Session at time: 2022-01-10 19:06:28.614682 -0600 CST m=+2.147796766
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:85 Player Attack Damage:9 Player Heal Value:0 Player Health:78 Round:2]
+New Game Session at time: 2022-01-10 19:06:28.614778 -0600 CST m=+2.147893469
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:77 Player Attack Damage:8 Player Heal Value:0 Player Health:66 Round:3]
+New Game Session at time: 2022-01-10 19:06:28.614802 -0600 CST m=+2.147916657
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:71 Player Attack Damage:6 Player Heal Value:0 Player Health:54 Round:4]
+New Game Session at time: 2022-01-10 19:06:28.614817 -0600 CST m=+2.147932303
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:65 Player Attack Damage:6 Player Heal Value:0 Player Health:43 Round:5]
+New Game Session at time: 2022-01-10 19:06:28.614832 -0600 CST m=+2.147947115
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:59 Player Attack Damage:6 Player Heal Value:0 Player Health:34 Round:6]
+New Game Session at time: 2022-01-10 19:06:28.614847 -0600 CST m=+2.147961763
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:54 Player Attack Damage:5 Player Heal Value:0 Player Health:22 Round:7]
+New Game Session at time: 2022-01-10 19:06:28.614861 -0600 CST m=+2.147976060
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:46 Player Attack Damage:8 Player Heal Value:0 Player Health:11 Round:8]
+New Game Session at time: 2022-01-10 19:06:28.614875 -0600 CST m=+2.147990336
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:39 Player Attack Damage:7 Player Heal Value:0 Player Health:0 Round:9]
+New Game Session at time: 2022-01-10 19:10:25.541955 -0600 CST m=+2.204395247
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:95 Player Attack Damage:5 Player Heal Value:0 Player Health:90 Round:1]
+New Game Session at time: 2022-01-10 19:10:25.542376 -0600 CST m=+2.204816315
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:86 Player Attack Damage:9 Player Heal Value:0 Player Health:80 Round:2]
+New Game Session at time: 2022-01-10 19:10:25.54243 -0600 CST m=+2.204870369
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:81 Player Attack Damage:5 Player Heal Value:0 Player Health:71 Round:3]
+New Game Session at time: 2022-01-10 19:10:25.542452 -0600 CST m=+2.204891873
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:73 Player Attack Damage:8 Player Heal Value:0 Player Health:59 Round:4]
+New Game Session at time: 2022-01-10 19:10:25.542474 -0600 CST m=+2.204913835
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:64 Player Attack Damage:9 Player Heal Value:0 Player Health:48 Round:5]
+New Game Session at time: 2022-01-10 19:10:25.542492 -0600 CST m=+2.204931445
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:55 Player Attack Damage:9 Player Heal Value:0 Player Health:37 Round:6]
+New Game Session at time: 2022-01-10 19:10:25.54251 -0600 CST m=+2.204949982
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:48 Player Attack Damage:7 Player Heal Value:0 Player Health:26 Round:7]
+New Game Session at time: 2022-01-10 19:10:25.54253 -0600 CST m=+2.204969882
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:40 Player Attack Damage:8 Player Heal Value:0 Player Health:17 Round:8]
+New Game Session at time: 2022-01-10 19:10:25.542549 -0600 CST m=+2.204988606
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:31 Player Attack Damage:9 Player Heal Value:0 Player Health:7 Round:9]
+New Game Session at time: 2022-01-10 19:10:25.542565 -0600 CST m=+2.205004751
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:23 Player Attack Damage:8 Player Heal Value:0 Player Health:0 Round:10]
+New Game Session at time: 2022-01-10 19:12:46.331306 -0600 CST m=+2.420655060
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:93 Player Attack Damage:7 Player Heal Value:0 Player Health:91 Round:1]
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:85 Player Attack Damage:8 Player Heal Value:0 Player Health:79 Round:2]
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:79 Player Attack Damage:6 Player Heal Value:0 Player Health:70 Round:3]
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:72 Player Attack Damage:7 Player Heal Value:0 Player Health:60 Round:4]
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:66 Player Attack Damage:6 Player Heal Value:0 Player Health:51 Round:5]
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:60 Player Attack Damage:6 Player Heal Value:0 Player Health:40 Round:6]
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:55 Player Attack Damage:5 Player Heal Value:0 Player Health:28 Round:7]
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:46 Player Attack Damage:9 Player Heal Value:0 Player Health:18 Round:8]
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:39 Player Attack Damage:7 Player Heal Value:0 Player Health:8 Round:9]
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:33 Player Attack Damage:6 Player Heal Value:0 Player Health:0 Round:10]
+New Game Session at time: 2022-01-10 19:17:26.166982 -0600 CST m=+2.922596212
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:95 Player Attack Damage:5 Player Heal Value:0 Player Health:88 Round:1]
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:88 Player Attack Damage:7 Player Heal Value:0 Player Health:77 Round:2]
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:81 Player Attack Damage:7 Player Heal Value:0 Player Health:67 Round:3]
+map[Action:ATTACK Monster Attack Damage:12 Monster Health:75 Player Attack Damage:6 Player Heal Value:0 Player Health:55 Round:4]
+map[Action:ATTACK Monster Attack Damage:9 Monster Health:70 Player Attack Damage:5 Player Heal Value:0 Player Health:46 Round:5]
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:65 Player Attack Damage:5 Player Heal Value:0 Player Health:36 Round:6]
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:60 Player Attack Damage:5 Player Heal Value:0 Player Health:25 Round:7]
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:51 Player Attack Damage:9 Player Heal Value:0 Player Health:15 Round:8]
+map[Action:ATTACK Monster Attack Damage:10 Monster Health:42 Player Attack Damage:9 Player Heal Value:0 Player Health:5 Round:9]
+map[Action:ATTACK Monster Attack Damage:11 Monster Health:35 Player Attack Damage:7 Player Heal Value:0 Player Health:0 Round:10]
